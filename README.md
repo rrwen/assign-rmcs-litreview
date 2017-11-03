@@ -25,16 +25,21 @@ In this review, five research papers from 2015 to 2017 were selected from the AC
 
 1. Install [TeX Live](https://www.tug.org/texlive/acquire-netinstall.html) or [Miktex](https://miktex.org/download)
 2. Add bin paths to system or environmental paths 
-3. Generate **wen2017_reviewparamoptml.pdf** (see [make.bat](https://github.com/rrwen/assign-rmcs-litreview/blob/master/make.bat) or [make.sh](https://github.com/rrwen/assign-rmcs-litreview/blob/master/make.sh)) 
+3. [Clone](https://git-scm.com/docs/git-clone) this repository
+4. Generate **wen2017_reviewparamoptml.pdf** (see [make.bat](https://github.com/rrwen/assign-rmcs-litreview/blob/master/make.bat) or [make.sh](https://github.com/rrwen/assign-rmcs-litreview/blob/master/make.sh)) 
 
 In windows:
 
 ```
+git clone https://github.com/rrwen/assign-rmcs-litreview
+cd assign-rmcs-litreview
 make
 ```
 
 In Linux/Mac:
 
 ```
+git clone https://github.com/rrwen/assign-rmcs-litreview
+cd assign-rmcs-litreview
 ./make.sh
 ```
