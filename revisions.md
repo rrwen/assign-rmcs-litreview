@@ -8,10 +8,6 @@ Instructed by Dr. Cherie Ding
 
 - [PDF](https://github.com/rrwen/assign-rmcs-litreview/blob/master/wen2017_reviewparamoptml.pdf)
 
-## October 17, 2017
-
-Initial submission to Dr. Cherie Ding using the IEEEtrans LaTeX template after paper selection approval.
-
 ## November 02, 2017
 
 The following changes were applied after feedback from Dr. Cherie Ding:
@@ -55,3 +51,7 @@ The following changes were applied after feedback from Dr. Cherie Ding:
 - Fixed typos (extra spaces, some spelling errors)
 - Used et al. for more than two authors after using full last names of authors first
 - Added revision date
+
+## October 17, 2017
+
+Initial submission to Dr. Cherie Ding using the IEEEtrans LaTeX template after paper selection approval.
