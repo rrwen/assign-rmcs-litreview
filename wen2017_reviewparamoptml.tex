@@ -1,0 +1,27 @@
+%% Richard Wen
+%% rwen@ryerson.ca
+
+
+% *** PACKAGES ***
+
+
+\input{tex/packages}
+
+
+% *** DOCUMENT ***
+
+
+\begin{document}
+	\input{tex/title}
+	\input{tex/abstract}
+	\IEEEpeerreviewmaketitle
+	\input{tex/body}
+	\input{tex/appendices}
+	\input{tex/acknowledgements}
+	\ifCLASSOPTIONcaptionsoff
+    \newpage
+  \fi
+  \bibliographystyle{IEEEtran}
+  \bibliography{tex/references}
+\end{document}
+

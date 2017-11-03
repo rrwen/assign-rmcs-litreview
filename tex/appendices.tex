@@ -1,0 +1,43 @@
+%% Richard Wen
+%% rwen@ryerson.ca
+
+
+% *** APPENDICES ***
+
+
+\appendices
+
+\section{InCites Search}
+\label{appendix:incites_search}
+The search for the top computer science journals based on Journal Impact Factor (JIF) \cite{Garfield:2006b} was done using the InCites Journal Citation Reports (JCR) web tool \cite{Clarivate:2017a}. The search used the following options available on InCites:
+
+\begin{itemize}
+  \item \textbf{Categories}:
+	\begin{itemize}
+		\item COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE
+		\item COMPUTER SCIENCE, CYBERNETICS
+		\item COMPUTER SCIENCE, HARDWARE \& ARCHITECTURE
+		\item COMPUTER SCIENCE, INFORMATION SYSTEMS
+		\item COMPUTER SCIENCE, INTERDISCIPLINARY APPLICATIONS
+		\item COMPUTER SCIENCE, SOFTWARE ENGINEERING
+		\item COMPUTER SCIENCE, THEORY \& METHODS
+	\end{itemize}
+  \item \textbf{JCR Year}: 2016
+  \item \textbf{Edition}: Science Citation Index Expanded (SCIE) \cite{Garfield:2006a} and Social Sciences Citation Index (SSCI) \cite{Klein:2004}
+  \item \textbf{Category Schema}: Web of Science \cite{Clarivate:2017b}
+  \item \textbf{JIF Quartile}: Quarter 1 (Q1)
+\end{itemize}
+
+\section{ACM Query Syntax}
+\label{appendix:acm_querysyntax}
+The query syntax in the ACM digital library was accessed through the advanced search page by clicking \textit{"show query syntax"}. The \textit{"+"} symbol includes each keyword in the title. \textit{"gte"} and \textit{"lte"} represent \textit{"greater than or equal to"} and \textit{"less than or equal to"} respectively. A filter for the publication year must be applied manually through the web interface to generate the appropriate query syntax. The advanced query syntax used for the ACM digital library to return potential papers is shown below:
+
+\lstinputlisting{queries/acm_querysyntax.txt}
+
+
+\section{IEEE Xplore Command Search}
+\label{appendix:ieeexplore_commandsearch}
+The command search in the IEEE Xplore digital library was accessed through the advanced search page by clicking \textit{"command search"}. Refinements were manually applied using the web interface to filter command search results for the years 2014 to 2017 and to search in \textit{"Metadata only"}. The command search used for the IEEE Xplore digital library to return potential papers is shown below:
+
+\lstinputlisting{queries/ieeexplore_commandsearch.txt}
+

@@ -1,0 +1,4 @@
+"query": { acmdlTitle:(+hyperparameter +optimization) }
+
+"filter": {"publicationYear":{ "gte":2014, "lte":2017 }},
+{owners.owner=HOSTED}
