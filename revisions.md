@@ -2,15 +2,44 @@
 
 Richard Wen  
 rwen@ryerson.ca      
-November 02, 2017  
+November 04, 2017  
 Assignment for Research Methods in Computer Science Course 
 Instructed by Dr. Cherie Ding  
 
 - [PDF](https://github.com/rrwen/assign-rmcs-litreview/blob/master/wen2017_reviewparamoptml.pdf)
 
+## November 04, 2017
+
+The following changes were applied after feedback 2 from Dr. Cherie Ding:
+
+### Introduction
+
+- Moved footnotes of explanations to main text
+
+### Section III.C
+
+- Moved footnotes to main text
+
+### Section IV.A
+
+- Corrected sentence on 10th line
+
+### Section IV.A
+
+- Added automated machine learning references
+
+### Conclusion
+
+- Added citations and some minor clarifications
+
+### Overall
+
+- Changed "can not" to "cannot"
+- Changed "out perform" to "outperform"
+
 ## November 02, 2017
 
-The following changes were applied after feedback from Dr. Cherie Ding:
+The following changes were applied after feedback 1 from Dr. Cherie Ding:
 
 ### Introduction
 
