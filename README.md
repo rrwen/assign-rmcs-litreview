@@ -8,6 +8,7 @@ Instructed by Dr. Cherie Ding
 
 - [PDF](https://github.com/rrwen/assign-rmcs-litreview/blob/master/wen2017_reviewparamoptml.pdf)
 - [Revisions](https://github.com/rrwen/assign-rmcs-litreview/blob/master/revisions.md)
+- [Presentation](https://github.com/rrwen/slides-rmcs-litreview)
 
 ## Abstract
 
